@@ -1,7 +1,3 @@
-Here is a concise, impactful README file for your GitHub introduction repository, showcasing your strengths, education, and key projects based on your resume.
-
-***
-
 # 👋 Hi, I'm Amreeta Surana
 
 **Aspiring AI & Machine Learning Engineer | Python, Deep Learning, Data Science**  
@@ -22,8 +18,8 @@ Motivated computer science graduate specializing in **Artificial Intelligence an
 ## 🧠 Skills
 
 - **Programming:** Python, C++, SQL  
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Keras, TensorFlow  
-- **Professional:** Machine Learning, Deep Learning, Data Wrangling, Feature Engineering, Model Evaluation  
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit Learn, Seaborn, Keras, TensorFlow  
+- **Professional:** Machine Learning, Deep Learning, Data Wrangling, Feature Engineering, Model Evaluation, Microsoft Power Bi and Excel  
 - **Other:** Microsoft Office, Communication, Time Management, Teamwork, Leadership
 
 ***
