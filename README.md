@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Amreeta Surana
 
 **Aspiring AI & Machine Learning Engineer | Python, Deep Learning, Data Science**  
-Indore, M.P. | [LinkedIn](https://linkedin.com/amreeta-surana) | [GitHub](https://github.com/AmreetaSurana)  
+Indore, M.P. | [LinkedIn](https://www.linkedin.com/in/amreeta-surana-1034as/) | [GitHub](https://github.com/AmreetaSurana)  
 Email: amreetasurana@gmail.com | Phone: +91 9111031240
 
 ***
@@ -60,7 +60,7 @@ Motivated computer science graduate specializing in **Artificial Intelligence an
 I'm always eager to collaborate and explore exciting opportunities in AI, machine learning, and data science.
 
 - 📧 Email: amreetasurana@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/amreeta-surana)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amreeta-surana-1034as/)  
 - 🔗 [GitHub](https://github.com/AmreetaSurana)
 
 ***
