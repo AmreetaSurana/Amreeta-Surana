@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amreeta Surana
 
-**Aspiring AI & Machine Learning Engineer | Python, Deep Learning, Data Science**  
+**Aspiring Data Scientist, Data Anlayst and AI & Machine Learning Engineer | Python, Deep Learning, Data Science**  
 Indore, M.P. | [LinkedIn](https://www.linkedin.com/in/amreeta-surana-1034as/) | [GitHub](https://github.com/AmreetaSurana)  
 Email: amreetasurana@gmail.com | Phone: +91 9111031240
 
