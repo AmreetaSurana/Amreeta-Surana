@@ -50,8 +50,8 @@ Motivated computer science graduate specializing in **Artificial Intelligence an
 
 ## 🌟 Extracurricular & Clubs
 
-- **Fusion Club:** Event Management Lead – Organized and managed impactful events, developed strong leadership and teamwork skills.
-- **Linux Club:** Core Member – Engaged in technical and non-technical event organization, expanding my knowledge in systems and open-source technologies.
+- **Fusion Club, VIT Bhopal** — Event Management Lead (2022–2024)
+- **Linux Club, VIT Bhopal** — Core Member (2024–2025)
 
 ***
 
@@ -67,14 +67,4 @@ I'm always eager to collaborate and explore exciting opportunities in AI, machin
 
 *Thank you for visiting my introduction repository! Feel free to check out my projects, connect, or reach out for collaboration.*
 
-
-
-## 💬 Clubs & Leadership
-
-- **Fusion Club, VIT Bhopal** — Event Management Lead (2022–2024)
-- **Linux Club, VIT Bhopal** — Core Member (2024–2025)
-
-***
-
-## 💡 Let's Connect!
 
