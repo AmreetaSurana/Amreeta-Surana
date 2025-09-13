@@ -59,10 +59,22 @@ Motivated computer science graduate specializing in **Artificial Intelligence an
 
 I'm always eager to collaborate and explore exciting opportunities in AI, machine learning, and data science.
 
-- **Email:** amreetasurana@gmail.com
-- [LinkedIn](https://linkedin.com/amreeta-surana)  
-- [GitHub](https://github.com/AmreetaSurana)
+- 📧 Email: amreetasurana@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/amreeta-surana)  
+- 🔗 [GitHub](https://github.com/AmreetaSurana)
 
 ***
 
 *Thank you for visiting my introduction repository! Feel free to check out my projects, connect, or reach out for collaboration.*
+
+
+
+## 💬 Clubs & Leadership
+
+- **Fusion Club, VIT Bhopal** — Event Management Lead (2022–2024)
+- **Linux Club, VIT Bhopal** — Core Member (2024–2025)
+
+***
+
+## 💡 Let's Connect!
+
