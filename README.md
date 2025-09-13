@@ -66,5 +66,3 @@ I'm always eager to collaborate and explore exciting opportunities in AI, machin
 ***
 
 *Thank you for visiting my introduction repository! Feel free to check out my projects, connect, or reach out for collaboration.*
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/38970248/25844e1f-28d4-499f-a0ad-bc46206caf7b/Amreeta-Surana-Resume.pdf)
