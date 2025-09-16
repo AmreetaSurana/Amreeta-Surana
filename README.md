@@ -48,12 +48,6 @@ Motivated computer science graduate specializing in **Artificial Intelligence an
 
 ***
 
-## 🌟 Extracurricular & Clubs
-
-- **Fusion Club, VIT Bhopal** — Event Management Lead (2022–2024)
-- **Linux Club, VIT Bhopal** — Core Member (2024–2025)
-
-***
 
 ## 📫 Let's Connect!
 
